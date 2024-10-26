@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilajeebi.github.io/sitemap_index.ilajeebi
